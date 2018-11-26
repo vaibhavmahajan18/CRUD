@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Mark32",
+      "gender": "Female",
+      "contactPreference": "Phone",
+      "email": "mark@test.com",
+      "department": "1",
+      "dateOfBirth": "2025-10-07T18:30:00.000Z",
+      "isActive": true,
+      "photoPath": "assets/images/emp1.png",
+      "phoneNumber": "2342424"
+    },
+    {
+      "id": 2,
+      "name": "Mery",
+      "gender": "Female",
+      "contactPreference": "Phone",
+      "email": "mery@test.com",
+      "phoneNumber": 12312,
+      "department": "2",
+      "dateOfBirth": "1988/10/25",
+      "isActive": false,
+      "photoPath": "assets/images/emp2.png"
+    },
+    {
+      "id": 3,
+      "name": "Nick",
+      "gender": "Male",
+      "contactPreference": "email",
+      "email": "mark@test.com",
+      "department": "3",
+      "dateOfBirth": "1988/10/25",
+      "isActive": true,
+      "photoPath": "assets/images/emp3.png"
+    }
+  ]
+}
